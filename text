@@ -1,0 +1,15 @@
+#name {
+  margin-top: -20px;
+}
+
+#tel {
+  margin-top: -20px;
+}
+
+#email {
+  margin-top: -20px;
+}
+
+#budget {
+  margin-top: -20px;
+}
